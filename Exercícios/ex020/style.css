@@ -1,0 +1,51 @@
+body{
+  background-color: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header
+{
+  background-color: white;
+  padding: 10px;
+}
+
+nav{
+  background-color: gray;
+  box-shadow: 1px 1px 1px black;
+}
+
+a{
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 30px;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: black;
+  
+}
+
+main{
+  margin-top: 5px;
+  background-color: white;
+  padding: 10px;
+}
+
+article{
+  background-color: lightgray;
+  padding: 10px;
+}
+
+.autor{
+  background-color: gray;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'hot';
+  src: url('../fonts/extrahotsecretary.ttf') format('Truetype'), 
+  url('../fonts/hotsecretary.ttf') format('truetype');
+}
+
+h1{
+  font-family: 'hot', Arial, Helvetica, sans-serif;
+  font-size: 3em;
+  font-weight: normal;
+  color: rgb(8, 114, 236);
+}
