@@ -3,3 +3,110 @@
   src: url(../fonts/idroid.otf);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,500;1,400&display=swap');
+
+*{
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  margin: 0px;
+  background-color: #F0F3F6;
+}
+h1, h2{
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+h3{
+  text-align: left;
+  font-family: 'idroid',Arial, Helvetica, sans-serif;
+  color: #032210;
+}
+
+.h3-gradient{
+  background-image: linear-gradient(to right, #68e09c, #a7eec5, #FFFFFF );
+}
+
+img{
+  display: flex;
+  margin: auto;
+}
+
+p{
+  text-align: justify;
+  padding: 5px;
+  text-indent: 2em;
+}
+
+strong{
+  color: #032210;
+}
+
+span{
+  background-image: linear-gradient(to right, #68e09c, #a7eec5 );
+  color: #032210;
+}
+
+header{
+  background-image: linear-gradient(to bottom, #032210, #085529, #0c793b);
+  padding: 75px;
+  margin: 0px
+}
+
+nav{
+  margin-top: 0px;
+  background-color: #032210;
+  padding: 10px;
+  padding-left: 1px;
+}
+
+main{
+  margin: auto;
+  padding: 10px;
+  background-color: white;
+  width: 1000px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.281);
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px;
+  margin: 0px;
+  text-align: center;
+}
+
+.link-normal
+{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.link-normal:hover{
+  background-color: transparent;
+}
+
+a:hover{
+  background-color: #0c793b ;
+}
+
+.img-perfil{
+  width: 985px;
+  margin: auto;
+}
+
+article{
+  background-color: #032210;
+  padding: 30px;
+  margin: -10px;
+}
+
+iframe{
+  margin: auto;
+}
