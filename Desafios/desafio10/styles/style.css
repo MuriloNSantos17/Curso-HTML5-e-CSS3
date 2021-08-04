@@ -48,6 +48,7 @@ p{
   text-align: justify;
   padding: 5px;
   text-indent: 2em;
+  line-height: 2em;
 }
 
 strong{
@@ -150,4 +151,9 @@ h4{
 footer >p{
   text-align: center;
   
+}
+
+ul{
+  columns: 2;
+  list-style-type: '\2714\00A0\00A0';
 }
