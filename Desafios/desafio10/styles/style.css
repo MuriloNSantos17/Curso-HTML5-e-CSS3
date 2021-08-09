@@ -13,6 +13,14 @@ header{
   font-family: 'Bebas Neue', cursive;
 }
 
+header p{
+  margin-bottom: 20px;
+}
+
+header h1{
+  font-weight: normal;
+}
+
 body{
   margin: 0px;
   background-color: #F0F3F6;
@@ -117,11 +125,20 @@ a:hover{
 
 
 .div-video{
-  max-width: 1000px;
-  min-width: 300px;
   background-color: #032210;
-  padding: 30px;
-  margin: -10px;
+  padding: 20px;
+  margin: 0px -10px 30px -10px;
+  position: relative;
+  padding-bottom: 55%;
+}
+
+div.div-video iframe{
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  width: 90%;
+  height: 90%;
+
 }
 
 iframe{
