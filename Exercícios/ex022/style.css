@@ -1,12 +1,16 @@
 #container{
-    height: 500px;
+    height: 96vh;
     background-color: purple;
     padding: 10px;
+    position: relative;
 }
 
 #conteudo{
     height: 200px;
     width: 400px;
     background-color: yellow;
-    margin: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
 }
