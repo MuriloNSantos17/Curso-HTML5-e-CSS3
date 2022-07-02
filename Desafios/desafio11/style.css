@@ -33,12 +33,14 @@ h1{
 .normal > p, .section-imagem > p{
     font-family: 'Sriracha', cursive;
     font-size: 4em;
+    margin-top: 50px;
 }
 
 .section-imagem > p{
     background-color: rgba(0, 0, 0, 0.423);
     color: white;
     width: 110vh;
+    
 }
 
 
@@ -46,7 +48,8 @@ h1{
 
 .section-imagem{
     padding: 60px;
-    height: 100vh;
+    height: 120vh;
+    
     background-attachment: fixed;
 }
 
