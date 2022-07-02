@@ -25,20 +25,32 @@ h1{
 }
 
 .normal{
-    padding: 40px;
+    padding: 60px;
     background-color: white;
     padding-bottom: 60px;
 }
 
-.normal >p{
+.normal > p, .section-imagem > p{
     font-family: 'Sriracha', cursive;
-    font-size: 3em;
+    font-size: 4em;
 }
 
-.section-imagem{
+.section-imagem > p{
+    background-color: rgba(0, 0, 0, 0.423);
+    color: white;
+    width: 110vh;
+}
 
+
+
+
+.section-imagem{
+    padding: 60px;
+    height: 100vh;
+    background-attachment: fixed;
 }
 
 #img1{
-    
+    background-image: url('images/background001.jpg');
+    background-position: right center;
 }
