@@ -1,5 +1,14 @@
-# Curso-HTML5-e-CSS3
-Curso em vídeo de HTML e CSS3 módulo 1,2
+# Curso HTML5 e CSS3
 
-## Curso onde aprendi vários conceitos de HTML5, CSS3 do zero. 
-### Deixo meus exercícios e desafios para que a comunidade possa opinar e utilizar.
+Curso de HTML5 e CSS3 do curso em vídeo disponibilizado gratuitamente com 5 módulos no site: https://www.cursoemvideo.com/
+Professor: Gustavo Guanabara (https://github.com/gustavoguanabara). 
+
+## 🚀 Começando
+
+### Para executar os exercícios: 
+
+VSCode para melhor visualização do código: https://code.visualstudio.com/ 
+Google Chrome: https://www.google.com/intl/pt-BR/chrome/ 
+
+## ✒️ Autores
+Murilo Nunes dos Santos.
