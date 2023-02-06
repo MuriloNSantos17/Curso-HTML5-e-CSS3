@@ -10,5 +10,9 @@ Professor: Gustavo Guanabara (https://github.com/gustavoguanabara).
 VSCode para melhor visualização do código: https://code.visualstudio.com/ 
 Google Chrome: https://www.google.com/intl/pt-BR/chrome/ 
 
+## Link dos Certificados 📃
+### Módulo 1: https://drive.google.com/file/d/1cFuvIqLpT0-xKcM9hWXIer3dk2t-a-RR/view 
+### Módulo 2: https://drive.google.com/file/d/16C-adXuKZA8QFHLzcwq8GZpGXqGuyBzt/view 
+
 ## ✒️ Autores
 Murilo Nunes dos Santos.
